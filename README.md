@@ -1,4 +1,4 @@
-<h2 align="left"> Hi there 👋! I'm Finn<br><br> About Me<br>- 🌱 I'm currently working at **Paymenow Group** as a Junior Software Developer.<br>- 🏠 I'm based in Cape Town/Stellenbosch.<br>- 🎓 I graduated from **Red and Yellow with a degree in **Bcom Marketing.<br><br> Let's Connect<br>- 📱 Find my socials below.</h2>
+<h2 align="left"> Hi there 👋! I'm Finn<br><br> About Me<br>- 🌱 I'm currently working at Paymenow Group as a Junior Software Developer.<br>- 🏠 I'm based in Cape Town/Stellenbosch.<br>- 🎓 I graduated from Red and Yellow with a degree in Bcom Marketing.<br><br> Let's Connect<br>- 📱 Find my socials below.</h2>
 
 
 
